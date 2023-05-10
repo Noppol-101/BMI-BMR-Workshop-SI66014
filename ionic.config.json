@@ -1,0 +1,7 @@
+{
+  "name": "bmi-bmrapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
